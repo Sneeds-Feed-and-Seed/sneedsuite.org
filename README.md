@@ -18,4 +18,5 @@ Webpage for the Sneedacity and SIMP projects
 * Get download links for Sneedacity and SIMP for the various operating systems
 * Get a list of other software/projects currently being developed for the Sneed Suite
 * Make sure the CSS supports mobile devices
+* * Check for issues on mobile devices; can use Chrome's built-in devtool feature for this
 * * The `font-size` property of the header `<h1>` text needs to be placed inside a `min` function alongside a length in `vw` units
