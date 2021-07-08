@@ -12,6 +12,7 @@ Webpage for the Sneedacity and SIMP projects
 
 ### To-do
 
+* Get a logo for the project as a whole; not just Sneedacity
 * Get list of supported operating systems for Sneedacity and SIMP
 * Get download links for Sneedacity and SIMP for the various operating systems
 * Get a list of other software/projects currently being developed for the Sneed Suite
