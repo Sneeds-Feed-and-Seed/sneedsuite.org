@@ -18,4 +18,4 @@ Webpage for the Sneedacity and SIMP projects
 * Get download links for Sneedacity and SIMP for the various operating systems
 * Get a list of other software/projects currently being developed for the Sneed Suite
 * Make sure the CSS supports mobile devices
-* * The `font-size` property of the header `<h1>` text needs to be placed inside a `min` function with a length in `vw` units
+* * The `font-size` property of the header `<h1>` text needs to be placed inside a `min` function alongside a length in `vw` units
