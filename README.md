@@ -21,3 +21,4 @@ Webpage for the Sneedacity and SIMP projects
   * Check for issues on mobile devices; can use Chrome's built-in devtool feature for this
   * The `font-size` property of the header `<h1>` text needs to be placed inside a `min` function alongside a length in `vw` units
   * `<nav>` element doesn't change width when the window is resized; this is because the custom JavaScript used to get the page dimensions excluding the scrollbars doesn't update the CSS variables (`--client-width` and `--client-height`) storing that information when the window is resized
+* Call the `updateScreenBasedMeasurements()` function when the `scroll` event is fired on the `document`
